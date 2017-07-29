@@ -19,3 +19,9 @@ Describe the differences between forks, clones, and branches. When would you use
     want to work on that repository locally rather than using the GitHub
     website.  I fork a repository on GitHub when I want to make changes to that
     repository public, but I don't have permission to modify the original.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    When we are without internet connection, and we want to see changes in remote version
+    we can easily see it locally. and it also helps in locally merging the changes done in
+    remote and local repositories.
+
