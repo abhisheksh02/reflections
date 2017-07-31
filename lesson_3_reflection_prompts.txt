@@ -29,3 +29,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     We can use Google Docs, Dropbox, etc. for collaboration. Saving multiple versions of file would be
     easy but comapring changes and merging changes will be difficult.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    When I want to add a new feature or check whether a new feature would work or not, then I use a seperate
+    branch. The benefit of this is that if the feature works then I can merge that branch into the master
+    branch otherwise I can get rid of that branch and get back to my master branch.
